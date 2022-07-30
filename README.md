@@ -11,7 +11,7 @@
     <a href="https://instagram.com/ekadharma" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ekadharmaaa_-blue" /></a>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ekadharmaa&theme=dracula&show_icons=true)" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ekadharmaa&theme=dracula&show_icons=true)" alt="github stats"/ align="center">
 
 <!-- *ekadharma* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
