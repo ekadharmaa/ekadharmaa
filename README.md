@@ -1,7 +1,7 @@
 [![Hi, I'm Putu Eka Dharma Saputra. I live in Bali, Indonesia. Website Designer & Frontend Developer from Denpasar, Indonesia. You can find my socials at https://www.instagram.com/ekadharmaaa/ Thanks for stopping by, have a great day!](./out/output.svg)](https://www.instagram.com/ekadharmaaa/)
 
 <p align="center">
-  <a href="https://github.com/ekadharmaa"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekadharmaa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/ekadharmaa"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ainee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 
