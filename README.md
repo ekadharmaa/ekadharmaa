@@ -2,8 +2,6 @@
 
 
 
-### Hi there 👋 , I'm Eka Dharma!
-Website Designer & Frontend Developer from Bali, Indonesia.
 
 ### Let's connect with me!
 <p>
