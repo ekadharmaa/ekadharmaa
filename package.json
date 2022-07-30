@@ -1,0 +1,16 @@
+{
+  "name": "ekadharmaa-readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ekadharmaa/ekadharmaa.git",
+  "author": "Putu Eka Dharma Saputra",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "@types/node-fetch": "^2.5.10"
+  },
+  "dependencies": {
+    "js-quantities": "^1.7.6",
+    "node-fetch": "^2.6.1"
+  }
+}
