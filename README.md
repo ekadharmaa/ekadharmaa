@@ -4,11 +4,8 @@
   <a href="https://github.com/ekadharmaa"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ekadharmaa"><img src="https://github-readme-stats.vercel.app/api?username=ekadharmaa&show_icons=true&theme=tokyonight"></a>
-</p>
 
-### Let's connect with me!
+<p align="center"> ### Let's connect with me! </p>
 <p align="center">
     <a href="https://www.facebook.com/eka.dharma.35175" target="_blank"><img src="https://img.shields.io/badge/Facebook-ekadharma-blue" /></a>
     <a href="https://instagram.com/ekadharma" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ekadharmaaa_-blue" /></a>
