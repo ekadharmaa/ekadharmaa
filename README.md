@@ -7,12 +7,14 @@
 
 <p align="center"> ⚡ Let's connect with me! ⚡</p>
 <p align="center">
-    <a href="https://www.facebook.com/eka.dharma.35175" target="_blank"><img src="https://img.shields.io/badge/Facebook-ekadharma-blue" /></a>
     <a href="https://www.facebook.com/eka.dharma.35175" target"_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://www.instagram.com/ekadharmaaa" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://ekadharma.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
     </a>
 </p>
 
